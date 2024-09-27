@@ -175,14 +175,12 @@ body, html {
     }
 }
 
-
-
 .footer {
     position: absolute;
     bottom: 0;
     width: 100%;
     text-align: center;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: transparent;
     color: #fff;
     padding: 10px 0;
     font-size: 1rem;
